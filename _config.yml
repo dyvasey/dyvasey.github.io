@@ -28,7 +28,7 @@ twitter_username:
 github_username:  dyvasey
 
 # Build settings
-theme: minima
+theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
