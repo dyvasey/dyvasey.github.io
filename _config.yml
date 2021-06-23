@@ -95,10 +95,10 @@ analytics:
 # Site Author
 author:
   name             : "Dylan Vasey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "photos/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tectonic geologist at UC Davis"
   location         : "Davis, CA"
-  email            : davasey@ucdavis.edu
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
