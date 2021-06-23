@@ -6,7 +6,7 @@ main:
     url: /teaching/
   - title: "Geology and the Humanities"
     url: /humanities/
+  - title: "Maps and Data"
+    url: /data/  
   - title: "CV"
     url: /cv/
-  - title: "Maps and Data"
-    url: /data/
