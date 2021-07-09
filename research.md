@@ -9,7 +9,7 @@ feature_row:
     title: "Tectonic Evolution of the Greater Caucasus"
     excerpt: "The Greater Caucasus Mountains lie on the northernmost margin of the active Arabia-Eurasia continental collision and contain the highest peaks of Europe. My work aims to understand why collisional deformation is localized in the Greater Caucasus, how the evolution and closure of the relict back-arc Caucasus Basin has influenced orogenesis, and how studying active collision in the Caucasus today can guide our understanding of ancient collisions.
 <br><br>**Related Publications**<br><br>
-Vasey, D.A., Cowgill, E., Roeske, S.M., Niemi, N.A., Godoladze, T., Skhirtladze, I., and Gogoladze, S. Evolution of the Greater Caucasus basement and formation of the Main Caucasus Thrust, Georgia: Tectonics, v. 39, e2019TC005828, doi:[10.1029/2019TC005828](https://doi.org/10.1029/2019TC005828). <br><br>
+Vasey, D.A., Cowgill, E., Roeske, S.M., Niemi, N.A., Godoladze, T., Skhirtladze, I., and Gogoladze, S., 2020, Evolution of the Greater Caucasus basement and formation of the Main Caucasus Thrust, Georgia: Tectonics, v. 39, e2019TC005828, doi:[10.1029/2019TC005828](https://doi.org/10.1029/2019TC005828). <br><br>
 Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Magmatism in Modern Continental Back-Arc Basins and Its Application to the Triassic-Jurassic Tectonic Evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, doi:[10.1029/2020GC009490](https://doi.org/10.1029/2020GC009490)."
 
 feature_row2:
