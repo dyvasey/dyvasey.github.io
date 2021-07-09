@@ -15,7 +15,10 @@ Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Ma
 feature_row2:
   - image_path: photos/geochem.jpg
     title: "Tectonic Geochemistry of Magmatic Rocks"
-    excerpt: ""
+    excerpt: "Geochemistry provides a powerful means of the petrogenesis of igneous rocks and linking their formation to tectonic setting. Unfortunately, there is rarely a unique tectonic setting corresponding to a particular geochemical signature, which can lead to uncritical use of existing geochemical frameworks (i.e., tectonic discrimination diagrams) or wholesale rejection of the ability to use geochemistry to assess tectonics. My research aims to take advantage of modern data science and data availability to provide a more nuanced approach to linking geochemical data with other observational data and modeling studies in order to better understand tectonic processes.
+<br><br>**Related Publications**<br><br>
+Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Magmatism in Modern Continental Back-Arc Basins and Its Application to the Triassic-Jurassic Tectonic Evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, doi:[10.1029/2020GC009490](https://doi.org/10.1029/2020GC009490)."
+
 feature_row3:
   - image_path: photos/model.jpg
     title: "Geodynamic Modeling of Continental Rift Inversion"
