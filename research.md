@@ -22,9 +22,12 @@ Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Ma
 feature_row3:
   - image_path: photos/model.jpg
     title: "Geodynamic Modeling of Continental Rift Inversion"
+    excerpt: "It is widely understood that inversion of extensional structures plays a major role in guiding and localizing deformation during collisional orogenesis. Although considerable insights have been gleaned from geodynamic numerical modeling of both extensional and compressional systems, relatively little work has explored the degree to which variations in extensional basin structure might systematically change the structure of the orogen resulting from basin inversion. My work seeks to systematically examine the impact of continental rift width, symmetry, and age on the first-order structure of the rift inversion orogens using the Advanced Solver for Problems in Earth's ConvecTion (ASPECT) from the Computational Infrastructure for Geodyanmics (CIG)."
+
 feature_row4:
   - image_path: photos/calaveras.jpg
     title: "Mesozoic Assembly of the Western Metamorphic Belt in California"
+    excerpt: "California serves as well-known natural laboratory for studying ancient subduction zone processes and includes the Franciscan accretionary complex, the Great Valley forearc, and the Sierra Nevada batholith. Yet the older rocks of the Sierra Foothills, known as the Western Metamorphic Belt, remain a poorly-understood component of the Mesozoic assembly of California. My work seeks to use new field observations and detrital zircon U-Pb geochronology to better understand subduction zone processes that formed the Calaveras Complex and other poorly-understood rock packages of the Western Metamorphic Belt."
 ---
 
 {% include feature_row type="left" %}
