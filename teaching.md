@@ -24,7 +24,7 @@ Currently, I have developed small modules for supplementing the structural geolo
 
 [Geoteach GitHub Repository](https://github.com/dyvasey/geoteach)
 
-![TAS Plotter in Jupyter Notebook Form](/photos/python.jpg)
+![TAS Plotter in Jupyter Notebook Form](/photos/python.JPG)
 
 ## Curriculum Development ##
 
