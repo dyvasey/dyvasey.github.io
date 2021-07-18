@@ -20,4 +20,4 @@ As a way of giving first-year students a glimpse at the intersection of the huma
 
 ## Resources
 
-* Geological Society of London Special Publication [*Myth and Geology*](https://sp.lyellcollection.org/content/273/1)
+* Geological Society of London Special Publication <a href="https://sp.lyellcollection.org/content/273/1" target="_blank">*Myth and Geology*</a>
