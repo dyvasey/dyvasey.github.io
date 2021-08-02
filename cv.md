@@ -85,5 +85,5 @@ Cowgill, E., Niemi, N., Forte, A., Trexer, C., Tye, A., **Vasey, D.**, Young, E.
 
 ### **Service** ###
 
-2021-Present  UC Davis Department of Earth and Planetary Sciences Seminar Committee
+2021-Present  UC Davis Department of Earth and Planetary Sciences Seminar Committee  
 2017-2021    UC Davis Graduate Student Association Representative
