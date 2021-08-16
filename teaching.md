@@ -13,7 +13,7 @@ I have taught a wide variety of undergraduate courses as a teaching assistant an
 
 1. We have to try to solve and move forward on problems with incomplete data and considerable uncertainty. The fragmented nature of the geologic record and irreproducibility of most long-term Earth processes provides great training for working with uncertainty.
 2. We usually have limited time and resources to solve any given problem but still have to do the best we can, even if it isn't perfect. Field courses bring students face to face with this reality; they have to try to make sense of and simplify complex field relationships without the luxury of infinite time and flexibility.
-3. Seemingly mundane aspects of the natural world and landscape impart important information about how the planet functions. A student who studies Earth science never sees a river, a mountain, or a rock along a trail in quite the same way, once they have been trained to interpret these everyday features.
+3. Seemingly mundane aspects of the natural world and landscape impart important information about how the planet functions. A student who studies Earth science never sees a river, a mountain, or a rock outcrop along a trail in quite the same way, once they have been trained to interpret these everyday features.
 4. Deep time provides a critical perspective on what it means to be human and the impact we have upon the planet in the timescale of our lives. Having a sense of timescales ranging from thousands to millions to billions of years helps students reconsider and reflect upon how best to spend the relatively short time they have to engage with the world.
 
 ## Teaching with Python ##
