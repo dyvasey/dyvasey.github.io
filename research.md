@@ -31,7 +31,7 @@ feature_row3:
 feature_row4:
   - image_path: photos/calaveras.jpg
     title: "Mesozoic Assembly of the Western Metamorphic Belt in California"
-    excerpt: "California serves as well-known natural laboratory for studying ancient subduction zone processes and includes the Franciscan accretionary complex, the Great Valley forearc, and the Sierra Nevada batholith. Yet the older rocks of the Sierra Foothills, known as the Western Metamorphic Belt, remain a poorly-understood component of the Mesozoic assembly of California. My work seeks to use new field observations and detrital zircon U-Pb geochronology to better understand subduction zone processes that formed the Calaveras Complex and other poorly-understood rock packages of the Western Metamorphic Belt."
+    excerpt: "California serves as a well-known natural laboratory for studying ancient subduction zone processes and includes the Franciscan accretionary complex, the Great Valley forearc, and the Sierra Nevada batholith. Yet the older rocks of the Sierra Foothills, known as the Western Metamorphic Belt, remain a poorly-understood component of the Mesozoic assembly of California. My work seeks to use new field observations and detrital zircon U-Pb geochronology to better understand subduction zone processes that formed the Calaveras Complex and other poorly-understood rock packages of the Western Metamorphic Belt."
 ---
 
 {% include feature_row type="left" %}
