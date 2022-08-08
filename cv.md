@@ -5,7 +5,7 @@ author_profile: true
 title: Curriculum Vitae
 ---
 
-Updated 8/8/2022 [PDF Version](/pdfs/Vasey_CV_July21.pdf)
+Updated 8/8/2022 [PDF Version](/pdfs/Vasey_CV_August22.pdf)
 
 ### **Dylan A. Vasey** ###
 
@@ -24,17 +24,13 @@ davasey@ucdavis.edu
 
 ### **Peer-Reviewed Manuscripts** ###
 
-Stahl, T. A., Cowgill, E., Boichenko, G., **Vasey, D. A.**, and Godoladze, T., 2022, Recent Surface Rupturing Earthquakes along the South Flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, 112(4), 2170–2188. https://doi.org/10.1785/0120210267
+Stahl, T. A., Cowgill, E., Boichenko, G., **Vasey, D. A.**, and Godoladze, T., 2022, Recent surface rupturing earthquakes along the south flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, 112(4), 2170–2188. https://doi.org/10.1785/0120210267
 
 Trexler, C. C., Cowgill, E., Niemi, N. A., **Vasey, D. A.**, and Godoladze, T., 2022, Tectonostratigraphy and major structures of the Georgian Greater Caucasus: Implications for structural architecture, along-strike continuity, and orogen evolution. Geosphere, 18(1), 211–240. https://doi.org/10.1130/GES02385.1
 
 **Vasey, D.A.**, Cowgill, E., and Cooper, K.M., 2021, A preliminary framework for magmatism in modern continental back-arc basins and its application to the Triassic-Jurassic tectonic evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, https://doi.org/10.1029/2020GC009490.
 
 **Vasey, D.A.**, Cowgill, E., Roeske, S.M., Niemi, N.A., Godoladze, T., Skhirtladze, I., and Gogoladze, S., 2020, Evolution of the Greater Caucasus basement and formation of the Main Caucasus Thrust, Georgia: Tectonics, v. 39, no. 3, e2019TC005828, https://doi.org/10.1029/2019TC005828. 
-
-### **Theses Supervised (Undergraduate)** ###
-
-Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus.
 
 ### **Professional Experience** ###
 
@@ -52,8 +48,11 @@ Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the
 2014-2015    **English Teaching Assistant (Instructor of Record), Faculté Polydisciplinaire de Ouarzazate**, Ouarzazate, Morocco  
 (Courses Taught: Debate, English/French Translation, English for Tourism, British and American Educational Systems, Educational Technology, Teaching Writing and Grammar)
 
-### **Honors and Awards** ###
+### **Theses Supervised (Undergraduate)** ###
 
+Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus.
+
+### **Honors and Awards** ###
 
 2022        Warren Hamilton Field Trip Award (GSA)<br>
 2019        Geological Society of America Structural Geology and Tectonics Division Field                  Trip Grant  
