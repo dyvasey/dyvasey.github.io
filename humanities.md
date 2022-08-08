@@ -14,7 +14,7 @@ The tectonic processes that shape the Earth operate on such long timescales and 
 As a way of giving first-year students a glimpse at the intersection of the humanities and the sciences, I am designing a first-year seminar exploring myths that describe the formation of major mountain ranges, in conjunction with an introduction to the science of plate tectonics that describes how these mountains formed according to the geologic record. This is still a work in progress, but possible topics include:
 
 * The Himalayas: The Mahabharata and India-Eurasia Collision
-* The Cascades: Thunderbird and the Whale and Earthquakes
+* The Cascades: Thunderbird and the Whale and Megatrhust Earthquakes
 * Mt. Vesuvius: Hercules and Volcanic Arcs
 * The Caucasus: Prometheus/The Golden Fleece and Arabia-Eurasia Collision
 

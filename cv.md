@@ -79,9 +79,11 @@ Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the
 
 ### **Conference Abstracts** ###
 
-**Vasey, D.A.**, Naliboff, J.B., and Cowgill, E., Continental Rift Inversion: Modeling the Transition between Intracontinental and Plate Boundary Collisional Orogenesis, Presented at 2022 Structure and Deformation at Plate Boundaries Synthesis Workshop, GeoPRISMS, Honolulu, HI, 16-18 Mar.
+Castro, A.E., Yao, J., Wolfe, O.M., George, F.R., and **Vasey, D.A.**,Cryptic early “Barrovian” metamorphism in the trailing edge of Ganderia: Evidence from aluminosilicate reaction textures, garnet trace element zoning, and phase equilibria modeling, Presented at 2022 Goldschmidt Conference, Honolulu, HI, 10-15 Jul.
 
-**Vasey, D.A.**, Naliboff, J.B., and Cowgill, E., Modeling the Effects of Initial Continental Rift Structure on the Symmetry and Vergence of Collisional Orogens Formed by Rift Inversion, Abstract 901290 presented at 2021 Fall Meeting, AGU, Virtual, 13-17 Dec.
+**Vasey, D.A.**, Naliboff, J.B., and Cowgill, E., Continental rift inversion: Modeling the transition between intracontinental and plate boundary collisional orogenesis, Presented at 2022 Structure and Deformation at Plate Boundaries Synthesis Workshop, GeoPRISMS, Honolulu, HI, 16-18 Mar.
+
+**Vasey, D.A.**, Naliboff, J.B., and Cowgill, E., Modeling the effects of initial continental rift structure on the symmetry and vergence of collisional orogens formed by rift inversion, Abstract 901290 presented at 2021 Fall Meeting, AGU, Virtual, 13-17 Dec.
 
 Cowgill, E., **Vasey, D.A.**, and Niemi, N.A., Plate coupling vs. strength in controlling orogenic structure, Abstract 165-4 presented at 2021 Annual Meeting, GSA, Portland, OR, 10-13 Oct.
 

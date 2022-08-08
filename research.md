@@ -9,10 +9,12 @@ feature_row:
     title: "Tectonic Evolution of the Greater Caucasus"
     excerpt: "The Greater Caucasus Mountains lie on the northernmost margin of the active Arabia-Eurasia continental collision and contain the highest peaks of Europe. My work aims to understand why collisional deformation is localized in the Greater Caucasus, how the evolution and closure of the relict back-arc Caucasus Basin has influenced orogenesis, and how studying active collision in the Caucasus today can guide our understanding of ancient collisions.
 <br><br>**Related Publications**<br><br>
+Stahl, T. A., Cowgill, E., Boichenko, G., Vasey, D. A., and Godoladze, T., 2022, Recent Surface Rupturing Earthquakes along the South Flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, 112(4), 2170–2188. doi:[10.1785/0120210267](https://doi.org/10.1785/0120210267) <br><br>
+Trexler, C. C., Cowgill, E., Niemi, N. A., Vasey, D. A., and Godoladze, T., 2022, Tectonostratigraphy and major structures of the Georgian Greater Caucasus: Implications for structural architecture, along-strike continuity, and orogen evolution. Geosphere, 18(1), 211–240. doi:[10.1130/GES02385.1](https://doi.org/10.1130/GES02385.1) <br><br>
 Vasey, D.A., Cowgill, E., Roeske, S.M., Niemi, N.A., Godoladze, T., Skhirtladze, I., and Gogoladze, S., 2020, Evolution of the Greater Caucasus Basement and Formation of the Main Caucasus Thrust, Georgia: Tectonics, v. 39, e2019TC005828, doi:[10.1029/2019TC005828](https://doi.org/10.1029/2019TC005828). <br><br>
 Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Magmatism in Modern Continental Back-Arc Basins and Its Application to the Triassic-Jurassic Tectonic Evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, doi:[10.1029/2020GC009490](https://doi.org/10.1029/2020GC009490)."
 
-feature_row2:
+feature_row3:
   - image_path: photos/geochem.jpg
     title: "Tectonic Geochemistry of Magmatic Rocks"
     excerpt: "Geochemistry provides a powerful means of the petrogenesis of igneous rocks and linking their formation to tectonic setting. Unfortunately, there is rarely a unique tectonic setting corresponding to a particular geochemical signature, which can lead to uncritical use of existing geochemical frameworks (i.e., tectonic discrimination diagrams) or wholesale rejection of the ability to use geochemistry to assess tectonics. My research aims to take advantage of modern data science and data availability to provide a more nuanced approach to linking geochemical data with other observational data and modeling studies in order to better understand tectonic processes.
@@ -21,10 +23,13 @@ Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Ma
 <br><br>**Python Code**<br><br>
 [Scripts for Geologic Data Analysis (Geoscripts)](https://github.com/dyvasey/geoscripts) [![DOI](https://zenodo.org/badge/334745753.svg)](https://zenodo.org/badge/latestdoi/334745753)"
 
-feature_row3:
+feature_row2:
   - image_path: photos/model.jpg
     title: "Geodynamic Modeling of Continental Rift Inversion"
     excerpt: "It is widely understood that inversion of extensional structures plays a major role in guiding and localizing deformation during collisional orogenesis. Although considerable insights have been gleaned from geodynamic numerical modeling of both extensional and compressional systems, relatively little work has explored the degree to which variations in extensional basin structure might systematically change the structure of the orogen resulting from basin inversion. My work seeks to systematically examine the impact of continental rift width, symmetry, and age on the first-order structure of the rift inversion orogens using the Advanced Solver for Problems in Earth's ConvecTion (ASPECT) from the Computational Infrastructure for Geodyanmics (CIG).
+<br><br>**Related Conference Abstracts**<br><br>
+Vasey, D.A., Naliboff, J.B., and Cowgill, E., Continental Rift Inversion: Modeling the Transition between Intracontinental and Plate Boundary Collisional Orogenesis, Presented at 2022 Structure and Deformation at Plate Boundaries Synthesis Workshop, GeoPRISMS, Honolulu, HI, 16-18 Mar. <br><br>
+Vasey, D.A., Naliboff, J.B., and Cowgill, E., Modeling the Effects of Initial Continental Rift Structure on the Symmetry and Vergence of Collisional Orogens Formed by Rift Inversion, Abstract 901290 presented at 2021 Fall Meeting, AGU, Virtual, 13-17 Dec.<br><br>
 <br><br>**Project Code and Documentation**<br><br>
 [Code and Documentation of ASPECT Rift Inversion Project](https://github.com/dyvasey/riftinversion)"
 
