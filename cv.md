@@ -24,9 +24,9 @@ davasey@ucdavis.edu
 
 ### **Peer-Reviewed Manuscripts** ###
 
-Stahl, T. A., Cowgill, E., Boichenko, G., **Vasey, D. A.**, and Godoladze, T., 2022, Recent surface rupturing earthquakes along the south flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, 112(4), 2170–2188. https://doi.org/10.1785/0120210267
+Stahl, T. A., Cowgill, E., Boichenko, G., **Vasey, D. A.**, and Godoladze, T., 2022, Recent surface rupturing earthquakes along the south flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, v. 112, no. 4, 2170–2188. https://doi.org/10.1785/0120210267
 
-Trexler, C. C., Cowgill, E., Niemi, N. A., **Vasey, D. A.**, and Godoladze, T., 2022, Tectonostratigraphy and major structures of the Georgian Greater Caucasus: Implications for structural architecture, along-strike continuity, and orogen evolution. Geosphere, 18(1), 211–240. https://doi.org/10.1130/GES02385.1
+Trexler, C. C., Cowgill, E., Niemi, N. A., **Vasey, D. A.**, and Godoladze, T., 2022, Tectonostratigraphy and major structures of the Georgian Greater Caucasus: Implications for structural architecture, along-strike continuity, and orogen evolution. Geosphere, v. 18, no. 1, 211–240. https://doi.org/10.1130/GES02385.1
 
 **Vasey, D.A.**, Cowgill, E., and Cooper, K.M., 2021, A preliminary framework for magmatism in modern continental back-arc basins and its application to the Triassic-Jurassic tectonic evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, https://doi.org/10.1029/2020GC009490.
 
