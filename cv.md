@@ -50,7 +50,7 @@ Trexler, C. C., Cowgill, E., Niemi, N. A., **Vasey, D. A.**, and Godoladze, T., 
 
 ### **Theses Supervised (Undergraduate)** ###
 
-Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus.
+Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus, UC Davis.
 
 ### **Honors and Awards** ###
 
