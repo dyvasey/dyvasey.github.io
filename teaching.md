@@ -54,7 +54,7 @@ I taught as instructor of record for Earthquakes and Natural Hazards (GEL 17) in
 * GEL 36: Solar System (Discussion TA - Spring 2017)
 * GEL 50: Physical Geology (Lecture TA - Fall 2018; Lab TA - Fall 2017, 2020)
 * GEL 60: Earth Materials/Mineralogy (Lab TA - Fall 2016, 2019)
-* GEL 101: Structural Geology (Lab TA - Winter 2017, 2019, 2021)
+* GEL 101: Structural Geology (Lab TA - Winter 2017, 2019, 2021, 2022)
 * GEL 103: Field Geology (Field TA - Spring 2018)
 * GEL 105: Igneous Petrology (Lecture TA - Winter 2020; Lab TA - Spring 2021)
 * GEL 106: Metamorphic Petrology (Lab TA - Spring 2019)
