@@ -10,10 +10,9 @@ Updated 9/21/2023
 ### **Dylan A. Vasey** ###
 
 Assistant Professor  
-Department of Earth and Climate Sciences
-Tufts University 
-004 Lane Hall, Tufts University
-Medford, MA 02155
+Department of Earth and Climate Sciences<br>
+004 Lane Hall, Tufts University<br>
+Medford, MA 02155<br>
 Dylan.Vasey@tufts.edu  
 
 ### **Education** ###
@@ -58,14 +57,14 @@ Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the
 ### **Research Grants** ###
 
 2021        NSF EAR-Tectonics 2050623 (Participant)  
-2017-2021    UC Davis Durrell Fund Grant
+2017-2021    UC Davis Durrell Fund Grant<br>
 2020        American Research Institute of the South Caucasus Research Grant  
 2017, 2020   Sigma Xi Grants-in-Aid of Research  
 2017, 2020   Geological Society of America Graduate Research Grant 
 
 ### **Honors and Awards** ###
 
-2022        Warren Hamilton Field Trip Award (GSA)
+2022        Warren Hamilton Field Trip Award (GSA)<br>
 2019        Geological Society of America Structural Geology and Tectonics Division Field Trip Grant  
 2019        UC Davis Graduate Student Association Travel Award  
 2018        UC Davis Graduate Student Travel Award  
