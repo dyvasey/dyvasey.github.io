@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Dylan Vasey"
   avatar           : "photos/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tectonic geologist at UC Davis"
-  location         : "Davis, CA"
+  bio              : "Tectonic geologist at Tufts"
+  location         : "Medford, MA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:davasey@ucdavis.edu"
+      url: "mailto:Dylan.Vasey@tufts.edu"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-2182-4733"
@@ -121,7 +121,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:davasey@ucdavis.edu"
+      url: "mailto:Dylan.Vasey@tufts.edu"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-2182-4733"
