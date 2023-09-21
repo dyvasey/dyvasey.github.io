@@ -48,6 +48,9 @@ I taught as instructor of record for Earthquakes and Natural Hazards (GEL 17) in
 
 ## Courses Taught ##
 
+#### Tufts ####
+* ECS 22: Structural Geology (Fall 2023)
+
 #### UC Davis ####
 
 * GEL 17: Earthquakes and Natural Disasters (Instructor - Spring 2020, Summer 2020)
