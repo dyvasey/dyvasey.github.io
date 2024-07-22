@@ -5,7 +5,7 @@ author_profile: true
 title: Curriculum Vitae
 ---
 
-Updated 9/21/2023
+Updated 7/22/2024
 
 ### **Dylan A. Vasey** ###
 
@@ -24,7 +24,7 @@ Dylan.Vasey@tufts.edu
 ### **Professional Appointments** ###
 
 2023-Present **Assistant Professor, Tufts University**, Medford, MA
-(Courses Taught: ECS 22 - Structural Geology)
+(Courses Taught: ECS 22 - Structural Geology, ECS 23 - Advanced Tectonics)
 
 2016-2023  **Teaching Assistant, University of California, Davis**, Davis, CA   
 (Courses Taught: GEL 36 – Solar System, GEL 50 – Physical Geology Lecture, GEL 50L – Physical Geology Lab, GEL 60 – Earth Materials, GEL 101L – Structural Geology Lab, GEL 103 – Field Geology, GEL 105 – Igneous Rocks, GEL 106 – Metamorphic Rocks GEL 110 – Summer Field Geology)
@@ -38,7 +38,13 @@ Dylan.Vasey@tufts.edu
 
 ### **Peer-Reviewed Manuscripts** ###
 
-**Vasey, D.A.**, _Garcia, L._, Cowgill, E., Trexler, C. C., and Godoladze, T., accepted, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus. Basin Research.
+**Vasey, D.A.**, Naliboff, J.B., Cowgill, E., Brune, S., Glerum, A., and Zwaan, F., 2024, Impact of rift history on the structural style of intracontinental rift-inversion orogens. Geology, v. 52, no. 6, 429–434, https://doi.org/10.1130/G51489.1
+
+**Vasey, D.A.**, _Garcia, L._, Cowgill, E., Trexler, C. C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus. Basin Research, v. 36, no. 1, e12825, https://doi.org/10.1111/bre.12825
+
+Trexler, C.C., Cowgill, E., **Vasey, D.A.**, and Niemi, N.A., 2023, Total shortening estimates across the western Greater Caucasus Mountains from balanced cross sections and area balancing. Tektonika, v. 1, no. 2, https://doi.org/10.55575/tektonika2023.1.2.50
+
+Yao, J., Castro, A., Roberts, N.M., Wolfe, O., Brunet, I., and **Vasey, D.A.**, 2023, Phase equilibria evidence for intermediate P/T metamorphism in the Nashoba terrane and implications for Acadian tectonics in Ganderia. Lithosphere. v. 2023, no. 1, lithosphere_2023_105, https://doi.org/10.2113/2023/lithosphere_2023_105.
 
 Stahl, T.A., Cowgill, E., Boichenko, G., **Vasey, D.A.**, and Godoladze, T., 2022, Recent surface rupturing earthquakes along the south flank of the Greater Caucasus near Tbilisi, Georgia. Bulletin of the Seismological Society of America, v. 112, no. 4, 2170–2188. https://doi.org/10.1785/0120210267
 
@@ -55,7 +61,7 @@ _Italics indicates undergraduate mentee co-author_.
 Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus, UC Davis.
 
 ### **Research Grants** ###
-
+2024		Harvard Travellers Club Permanent Fund Grant
 2021        NSF EAR-Tectonics 2050623 (Participant)  
 2017-2021    UC Davis Durrell Fund Grant<br>
 2020        American Research Institute of the South Caucasus Research Grant  
@@ -78,6 +84,11 @@ Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the
 2013        Marshall Scholarship Finalist  
 2012        Charles W. Cole Scholarship (Amherst College)  
 
+### **Invited Talks** ###
+Vasey, D.A., 2024, Building continental lithosphere in convergent margins via basin closure and tectonic accretion: Insights from the Greater Caucasus Mountains. University of Wyoming Department of Geology & Geophysics Distinguished Lecture Series.
+
+Vasey, D.A., 2022, Formation of the Greater Caucasus Mountains by ocean closure and collision of the Arabian/Eurasian tectonic plates. American Research Institute of the South Caucasus Online Event Series. 
+
 ### **Conference Abstracts (First-Author Only)** ###
 
 Vasey, D.A., Garcia, L., Cowgill, E., Trexler, C.C., and Godoladze, T., Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus. Presented at 2023 Geochronlogy Gordon Research Conference, West Dover, VT, 13-18 Aug.
@@ -99,5 +110,10 @@ Vasey, D.A., Cowgill, E., Niemi, N.A., Godoladze, T., Javakhishvili, Z., Skhirtl
 
 ### **Service** ###
 
-2021-2022  UC Davis Department of Earth and Planetary Sciences Seminar Committee  
-2017-2021    UC Davis Graduate Student Association Representative
+2024-Present	Transfer Credit Representative – Tufts University Earth and Climate Sciences
+2023	Tufts University Search Committee – Assistant Professor in Surface Processes
+2023	Reviewer for Journal of Petrology
+2023	Discussion Leader, “Timescales of Surface Processes,” 2023 Gordon Research Seminar in Geochronology
+2021-2022 	UC Davis Department of Earth and Planetary Sciences Seminar Committee
+2017-2021	UC Davis Graduate Student Association Representative
+2017	Organizer for Structural Geology Activity at UC Davis Picnic Day
