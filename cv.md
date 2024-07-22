@@ -61,7 +61,7 @@ _Italics indicates undergraduate mentee co-author_.
 Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus, UC Davis.
 
 ### **Research Grants** ###
-2024		Harvard Travellers Club Permanent Fund Grant
+2024		Harvard Travellers Club Permanent Fund Grant<br>
 2021        NSF EAR-Tectonics 2050623 (Participant)  
 2017-2021    UC Davis Durrell Fund Grant<br>
 2020        American Research Institute of the South Caucasus Research Grant  
@@ -110,10 +110,10 @@ Vasey, D.A., Cowgill, E., Niemi, N.A., Godoladze, T., Javakhishvili, Z., Skhirtl
 
 ### **Service** ###
 
-2024-Present	Transfer Credit Representative – Tufts University Earth and Climate Sciences
-2023	Tufts University Search Committee – Assistant Professor in Surface Processes
-2023	Reviewer for Journal of Petrology
-2023	Discussion Leader, “Timescales of Surface Processes,” 2023 Gordon Research Seminar in Geochronology
-2021-2022 	UC Davis Department of Earth and Planetary Sciences Seminar Committee
-2017-2021	UC Davis Graduate Student Association Representative
-2017	Organizer for Structural Geology Activity at UC Davis Picnic Day
+2024-Present	Transfer Credit Representative – Tufts University Earth and Climate Sciences<br>
+2023	Tufts University Search Committee – Assistant Professor in Surface Processes<br>
+2023	Reviewer for Journal of Petrology<br>
+2023	Discussion Leader, “Timescales of Surface Processes,” 2023 Gordon Research Seminar in Geochronology<br>
+2021-2022 	UC Davis Department of Earth and Planetary Sciences Seminar Committee<br>
+2017-2021	UC Davis Graduate Student Association Representative<br>
+2017	Organizer for Structural Geology Activity at UC Davis Picnic Day<br>
