@@ -5,7 +5,7 @@ author_profile: true
 title: Curriculum Vitae
 ---
 
-Updated 7/22/2024
+Updated 2/21/2025
 
 ### **Dylan A. Vasey** ###
 
@@ -38,6 +38,8 @@ Dylan.Vasey@tufts.edu
 
 ### **Peer-Reviewed Manuscripts** ###
 
+Zwaan, F., Brune, S., Glerum, A., **Vasey, D.A.**, Naliboff, J.B., Manatschal, G., and Gaucher, E., 2025, Rift-inversion orogens are potential hotspots for natural H2 generation. Science Advances, v. 11, no. 8, eadr3418, https://doi.org/10.1126/sciadv.adr3418
+
 **Vasey, D.A.**, Naliboff, J.B., Cowgill, E., Brune, S., Glerum, A., and Zwaan, F., 2024, Impact of rift history on the structural style of intracontinental rift-inversion orogens. Geology, v. 52, no. 6, 429–434, https://doi.org/10.1130/G51489.1
 
 **Vasey, D.A.**, _Garcia, L._, Cowgill, E., Trexler, C. C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus. Basin Research, v. 36, no. 1, e12825, https://doi.org/10.1111/bre.12825
@@ -57,6 +59,7 @@ Trexler, C.C., Cowgill, E., Niemi, N.A., **Vasey, D.A.**, and Godoladze, T., 202
 _Italics indicates undergraduate mentee co-author_.
 
 ### **Theses Supervised (Undergraduate)** ###
+Scully, P., 2025, Integrating models of rift-inversion orogens with forward modeling of low-temperature thermochronologic systems, Tufts University.
 
 Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the frontal thrust of the North Georgia Fault System in the Greater Caucasus, UC Davis.
 
@@ -85,6 +88,8 @@ Garcia, L., 2022, Detrital zircon provenance pushes back-arc basin suture to the
 2012        Charles W. Cole Scholarship (Amherst College)  
 
 ### **Invited Talks** ###
+Vasey, D.A., 2024, Rift-inversion orogens: The interface of plate-boundary and intraplate deformation. University of Massachusetts Amherst Department of Earth, Geographic, and Climate Sciences Guest Lecture Series.
+
 Vasey, D.A., 2024, Building continental lithosphere in convergent margins via basin closure and tectonic accretion: Insights from the Greater Caucasus Mountains. University of Wyoming Department of Geology & Geophysics Distinguished Lecture Series.
 
 Vasey, D.A., 2022, Formation of the Greater Caucasus Mountains by ocean closure and collision of the Arabian/Eurasian tectonic plates. American Research Institute of the South Caucasus Online Event Series. 
@@ -109,8 +114,10 @@ Vasey, D.A., Cowgill, E., Niemi, N.A., Godoladze, T., Javakhishvili, Z., Skhirtl
 
 
 ### **Service** ###
-
+2025    Reviewer for Tektonika <br>
+2024-Present	Member, Tufts University Education Abroad Committee <br>
 2024-Present	Transfer Credit Representative – Tufts University Earth and Climate Sciences<br>
+2024    Reviewer for Precambrian Research <br>
 2023	Tufts University Search Committee – Assistant Professor in Surface Processes<br>
 2023	Reviewer for Journal of Petrology<br>
 2023	Discussion Leader, “Timescales of Surface Processes,” 2023 Gordon Research Seminar in Geochronology<br>
