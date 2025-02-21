@@ -18,9 +18,9 @@ I have taught a wide variety of undergraduate courses as a teaching assistant an
 
 ## Teaching with Python ##
 
-I have recently started developing and teaching with short snippets of Python code in Jupyter Notebooks as a way of making quantitative Earth science concepts and problems more accessible to students. The advantage of Jupyter Notebooks is that code blocks can be given detailed annotation in Markdown to explain what the code is doing, and the code can be written in such a way so that students can take advantage of the functionality without necessarily having prior coding or Python experience. The [JupyterHub](https://jupyter.libretexts.org/) deployed at UC Davis also allows students to run and edit code without needing to worry about installing Python on their local machines.
+I have recently started developing and teaching with short snippets of Python code in Jupyter Notebooks as a way of making quantitative Earth science concepts and problems more accessible to students. The advantage of Jupyter Notebooks is that code blocks can be given detailed annotation in Markdown to explain what the code is doing, and the code can be written in such a way so that students can take advantage of the functionality without necessarily having prior coding or Python experience.
 
-Currently, I have developed small modules for supplementing the structural geology and igneous petrology labs at UC Davis and maintain a GitHub repository of the modules:
+Currently, I have developed small modules for supplementing structural geology and igneous petrology labs and maintain a GitHub repository of the modules:
 
 [Geoteach GitHub Repository](https://github.com/dyvasey/geoteach)
 
@@ -30,7 +30,7 @@ Currently, I have developed small modules for supplementing the structural geolo
 
 ### Historical Readings on Natural Disasters ###
 
-I taught as instructor of record for Earthquakes and Natural Hazards (GEL 17) in Spring and Summer 2020 and used the opportunity to integrate historical readings on how societies have responded to and interpreted natural disasters with lectures on the science of why/how natural disasters take place.
+I taught Earthquakes and Natural Hazards (GEL 17) at UC Davis in Spring and Summer 2020 and used the opportunity to integrate historical readings on how societies have responded to and interpreted natural disasters with lectures on the science of why/how natural disasters take place.
 
 #### Readings from GEL 17 ####
 
@@ -49,7 +49,7 @@ I taught as instructor of record for Earthquakes and Natural Hazards (GEL 17) in
 ## Courses Taught ##
 
 #### Tufts ####
-* ECS 22: Structural Geology (Fall 2023)
+* ECS 22: Structural Geology (Fall 2023, 2024)
 * ECS 23: Advanced Tectonics (Spring 2024)
 
 #### UC Davis ####
