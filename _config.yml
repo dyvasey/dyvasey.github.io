@@ -115,6 +115,9 @@ author:
     - label: "Research Gate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Dylan-Vasey"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/dylan-vasey-57643b352"
 
 # Site Footer
 footer:
@@ -134,9 +137,9 @@ footer:
     - label: "Research Gate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Dylan-Vasey"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/dylan-vasey-57643b352"
 
 
 # Reading Files
