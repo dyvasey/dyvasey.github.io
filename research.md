@@ -30,14 +30,11 @@ feature_row2:
     title: "Geodynamic Modeling of Continental Rift Inversion"
     excerpt: "It is widely understood that inversion of extensional structures plays a major role in guiding and localizing deformation during collisional orogenesis. Although considerable insights have been gleaned from geodynamic numerical modeling of both extensional and compressional systems, relatively little work has explored the degree to which variations in extensional basin structure might systematically change the structure of the orogen resulting from basin inversion. My work seeks to systematically examine the impact of continental rift width, symmetry, and age on the first-order structure of the rift inversion orogens using the Advanced Solver for Problems in Earth's ConvecTion (ASPECT) from the Computational Infrastructure for Geodyanmics (CIG).
 <br><br>**Related Publications**<br><br>
+Zwaan, F., Brune, S., Glerum, A., **Vasey, D.A.**, Naliboff, J.B., Manatschal, G., and Gaucher, E., 2025, Rift-inversion orogens are potential hotspots for natural H2 generation. Science Advances, v. 11, no. 8, eadr3418, https://doi.org/10.1126/sciadv.adr3418 <br> <br>
 Vasey, D.A., Naliboff, J.B., Cowgill, E., Brune, S., Glerum, A., and Zwaan, F., 2024, Impact of rift history on the structural style of intracontinental rift-inversion orogens. Geology, v. 52, no. 6, 429–434, doi:[10.1130/G51489.1](https://doi.org/10.1130/G51489.1)
 <br><br>**Project Code and Documentation**<br><br>
 [Code and Documentation of ASPECT Rift Inversion Project](https://github.com/dyvasey/riftinversion)"
 
-feature_row4:
-  - image_path: photos/calaveras.jpg
-    title: "Mesozoic Assembly of the Western Metamorphic Belt in California"
-    excerpt: "California serves as a well-known natural laboratory for studying ancient subduction zone processes and includes the Franciscan accretionary complex, the Great Valley forearc, and the Sierra Nevada batholith. Yet the older rocks of the Sierra Foothills, known as the Western Metamorphic Belt, remain a poorly-understood component of the Mesozoic assembly of California. My work seeks to use new field observations and detrital zircon U-Pb geochronology to better understand subduction zone processes that formed the Calaveras Complex and other poorly-understood rock packages of the Western Metamorphic Belt."
 ---
 
 {% include feature_row type="left" %}
@@ -45,5 +42,3 @@ feature_row4:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
