@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 title: Teaching
 header:
-  overlay_image: "/photos/atlas.jpg"
+  overlay_image: "/photos/annecy.jpg"
 ---
 
 ## Teaching Philosophy ##

@@ -15,9 +15,9 @@ feature_row2:
     url: "/teaching/"
     btn_label: "Teaching"
     btn_class: "btn--large"
-  - image_path: photos/humanities.jpg
-    url: "/humanities/"
-    btn_label: "Geology and the Humanities"
+  - image_path: photos/people.jpg
+    url: "/people/"
+    btn_label: "People"
     btn_class: "btn--large"
 
 ---

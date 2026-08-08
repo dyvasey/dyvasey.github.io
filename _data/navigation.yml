@@ -4,6 +4,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "People"
+    url: /people/
   - title: "Geology and the Humanities"
     url: /humanities/
   - title: "Maps and Data"
