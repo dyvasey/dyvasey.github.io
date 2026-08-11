@@ -12,9 +12,7 @@ feature_row:
 <br><br>**Selected Publications**<br><br>
 Vasey, D.A., Gouiza, M., Pomeroy, J.T. , and VanTongeren, J.A., _in review_, The Western Moroccan Meseta as a transient intra-rift high within the Central Atlantic rift system: Tectonics <br><br>
 Vasey, D.A., Cowgill, E., VanTongeren, J.A., and Anderson, C.O., 2025, Relict back-arc basin crustal structure in the western Greater Caucasus, Georgia: Geochemistry, Geophysics, Geosystems, v. 25, no. 5, e2024GC012036, doi:[10.1029/2024GC012036](https://doi.org/10.1029/2024GC012036) <br><br>
-Vasey, D.A., Garcia, L., Cowgill, E., Trexler, C. C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus: Basin Research, v. 36, no. 1, e12825, doi:[10.1111/bre.12825](https://doi.org/10.1111/bre.12825) <br><br>
-Vasey, D.A., Cowgill, E., Roeske, S.M., Niemi, N.A., Godoladze, T., Skhirtladze, I., and Gogoladze, S., 2020, Evolution of the Greater Caucasus Basement and Formation of the Main Caucasus Thrust, Georgia: Tectonics, v. 39, e2019TC005828, doi:[10.1029/2019TC005828](https://doi.org/10.1029/2019TC005828). <br><br>
-Vasey, D.A., Cowgill, E., and Cooper, K.M., 2021, A Preliminary Framework for Magmatism in Modern Continental Back-Arc Basins and Its Application to the Triassic-Jurassic Tectonic Evolution of the Caucasus: Geochemistry, Geophysics, Geosystems, v. 22, e2020GC009490, doi:[10.1029/2020GC009490](https://doi.org/10.1029/2020GC009490)."
+Vasey, D.A., Garcia, L., Cowgill, E., Trexler, C. C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus: Basin Research, v. 36, no. 1, e12825, doi:[10.1111/bre.12825](https://doi.org/10.1111/bre.12825) <br><br>"
 
 feature_row3:
   - image_path: photos/geochem.jpg
