@@ -5,14 +5,10 @@ header:
   overlay_image: "/photos/zircon.png"
 
 feature_row:
-  - image_path: photos/caucasus.jpg
+  - image_path: photos/oulmes.jpg
     title: "Impact of Relict Basins on Collisional Mountain Building"
-    excerpt: "Continental collisions result in the highest topography on Earth and exert a first-order influence on erosion, biodiversity, magmatism, and mantle dynamics. Although both ancient and modern collisions contain similar structural components, their evolution is also strongly controlled by features that are specific to individual mountain belts, including the pre-collisional basins that are closed during mountain building. My observational research on collsiional mountain belts focuses on using the rock record, including geochemical and geochronlogic tools, to reconstruct now-closed basins and assess their impact on mountain belt evolution in locations ranging from the Greater Caucasus to the Moroccan Atlas and Appalachians.
+    excerpt: "Continental collisions result in the highest topography on Earth and exert a first-order influence on erosion, biodiversity, magmatism, and mantle dynamics. Although both ancient and modern collisions contain similar structural components, their evolution is also strongly controlled by features that are specific to individual mountain belts, including the pre-collisional basins that are closed during mountain building. My observational research on collsiional mountain belts focuses on using the rock record, including geochemical and geochronlogic tools, to reconstruct now-closed basins and assess their impact on mountain belt evolution in locations ranging from the Greater Caucasus to the Moroccan Atlas and Appalachians."
 
-<br><br>**Selected Publications**<br><br>
-Vasey, D.A., Gouiza, M., Pomeroy, J.T. , and VanTongeren, J.A., _in review_, The Western Moroccan Meseta as a transient intra-rift high within the Central Atlantic rift system: Tectonics <br><br>
-Vasey, D.A., Cowgill, E., VanTongeren, J.A., and Anderson, C.O., 2025, Relict back-arc basin crustal structure in the western Greater Caucasus, Georgia: Geochemistry, Geophysics, Geosystems, v. 25, no. 5, e2024GC012036, doi:[10.1029/2024GC012036](https://doi.org/10.1029/2024GC012036) <br><br>
-Vasey, D.A., Garcia, L., Cowgill, E., Trexler, C. C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus: Basin Research, v. 36, no. 1, e12825, doi:[10.1111/bre.12825](https://doi.org/10.1111/bre.12825) <br><br>"
 
 feature_row3:
   - image_path: photos/geochem.jpg
@@ -36,6 +32,16 @@ Vasey, D.A., Naliboff, J.B., Cowgill, E., Brune, S., Glerum, A., and Zwaan, F., 
 ---
 
 {% include feature_row type="left" %}
+
+<div class="pub-block" markdown="1">**Selected Publications** <br>
+
+Vasey, D.A., Gouiza, M., Pomeroy, J.T., and VanTongeren, J.A., *in review*, The Western Moroccan Meseta as a transient intra-rift high within the Central Atlantic rift system: Tectonics
+
+Vasey, D.A., Cowgill, E., VanTongeren, J.A., and Anderson, C.O., 2025, Relict back-arc basin crustal structure in the western Greater Caucasus, Georgia: Geochemistry, Geophysics, Geosystems, v. 25, no. 5, e2024GC012036, doi:[10.1029/2024GC012036](https://doi.org/10.1029/2024GC012036)
+
+Vasey, D.A., Garcia, L., Cowgill, E., Trexler, C.C., and Godoladze, T., 2024, Episodic evolution of a protracted convergent margin revealed by detrital zircon geochronology in the Greater Caucasus: Basin Research, v. 36, no. 1, e12825, doi:[10.1111/bre.12825](https://doi.org/10.1111/bre.12825)
+
+</div>
 
 {% include feature_row id="feature_row2" type="right" %}
 
