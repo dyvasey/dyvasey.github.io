@@ -6,9 +6,10 @@ main:
     url: /teaching/
   - title: "People"
     url: /people/
-  - title: "Software, Maps, and Data"
-    url: /data/  
-  - title: "Geology and the Humanities"
-    url: /humanities/
+  - title: "Software"
+    url: /data/ 
   - title: "CV"
     url: /cv/
+  - title: "Geology and the Humanities"
+    url: /humanities/
+
