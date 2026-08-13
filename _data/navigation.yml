@@ -4,9 +4,12 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Geology and the Humanities"
-    url: /humanities/
-  - title: "Maps and Data"
-    url: /data/  
+  - title: "People"
+    url: /people/
+  - title: "Software"
+    url: /data/ 
   - title: "CV"
     url: /cv/
+  - title: "Geology and the Humanities"
+    url: /humanities/
+
