@@ -7,4 +7,4 @@ title: Curriculum Vitae
 
 [**Download CV (PDF)**]({{ site.baseurl }}/pdfs/cv.pdf){: .btn .btn--primary .btn--large}
 
-Updated August 2026
+Updated September 2026
